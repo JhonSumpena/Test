@@ -1,8 +1,8 @@
 # Test
 
-Membuat API REST atau gRPC untuk menyimpan dan membaca file yang terenkripsi.
+Membuat simpel API REST atau gRPC untuk menyimpan dan membaca file yang terenkripsi.
 Disini bisa menggunakan bahasa apapun untuk membuat api nya (golang, java, php, python, javascript, dll)
-Sertakan di dalam api yang dibuat package dari https://github.com/rfjakob/gocryptfs untuk proses enkripsi file nya.
+Sertakan di dalam api yang dibuat, package dari https://github.com/rfjakob/gocryptfs untuk proses enkripsi file nya.
 buat minimal 2 payload api:
 - store file
 - read file
