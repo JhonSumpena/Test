@@ -8,3 +8,7 @@ buat minimal 2 payload api:
 - read file
 
 Goal nya, api yang dibuat dapat menyimpan file lalu mengencrypt nya menggunakan https://github.com/rfjakob/gocryptfs, lalu file yang ter encrypt tersebut dapat di ambil kembali dengan keadaan sudah ter decrypt.
+
+Buat 1 Repository public untuk menyimpan hasil api yang dibuat nya.
+
+Selamat Mencoba
